@@ -35,4 +35,4 @@ We'll cover 14 Sections and 1 Bonus Section here:
   
 **All the notebooks required for this course are available here. Please download this repository and read the notebooks using Jupyter Notebook in your local computer.**
 
-**If you want to read the notebooks online, you can go to this [link](http://nbviewer.jupyter.org/github/Ko-Sai/Lae-Lar---Python-Course-Notebooks/tree/master/)**
+**If you want to read the notebooks online, you can go to this [link](http://nbviewer.jupyter.org/github/Ko-Sai/Lae-Lar-Python-Course-Notebooks/tree/master/)**
