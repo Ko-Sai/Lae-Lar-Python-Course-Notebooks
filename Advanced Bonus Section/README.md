@@ -8,4 +8,4 @@ We will have 3 notebooks and an extra advanced folder here:
 
 Advanced Python Objects and Data Structures
 
-**Here, we'll be adding more lectures later if we have a chance.**
+**Here, we'll add more lectures later if we have a chance.**
