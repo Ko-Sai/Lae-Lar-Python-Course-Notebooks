@@ -2,8 +2,8 @@
 
 01 - Fibonacci Sequence  
 02 - Prime Factorization  
-03 - Merge Sort
-04 - ATM Account System
-05 - Hotel Reservation System
+03 - Merge Sort  
+04 - ATM Account System  
+05 - Hotel Reservation System  
 
-**There'll a brief explanation in each notebook and links related to each project will be of a great help to you. Good Luck!**
+**There'll a brief explanation in each notebook and links related to projects will be of a great help to you. Good Luck!**
