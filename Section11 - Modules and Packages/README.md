@@ -3,6 +3,8 @@
 We will have 2 notebooks here:
 
 01 - __name__ == '__main__ '   
-02 - Modules and Packages  
+02 - Modules and Packages    
+
+There is no quiz starting from this section and no test for this section.
 
 
